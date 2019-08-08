@@ -1,0 +1,17 @@
+{
+  "id": "pushover",
+  "name": "Pushover",
+  "version": "1.0.0",
+  "description": "Pushover",
+  "main": "index.js",
+  "author": "Jason White <jdwhite@menelos.com>",
+  "license": "MIT",
+  "repository": "https://github.com/jdwhite/franz-recipe-pushover",  
+  "config": {
+    "serviceURL": "https://client.pushover.net",
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": false,
+    "hasTeamId": false
+  }
+}
