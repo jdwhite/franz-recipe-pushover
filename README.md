@@ -15,6 +15,7 @@ To install a new recipe:
 to see the recipes added in `.../recipes/dev/`.
 
 ## Notes
+* This recipe requires a Pushover Desktop license.
 * The "direct messages" badge is value of the "All Messages" app in Pushover.
 * The author found it useful to create a new device for Franz in Pushover.
 
