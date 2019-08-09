@@ -13,8 +13,8 @@ To install a new recipe:
 3. Reload Franz.
 
 ## Notes
-* The author found it useful to create a new device for Franz in Pushover.
 * The "direct messages" badge is value of the "All Messages" app in Pushover.
+* The author found it useful to create a new device for Franz in Pushover.
 
-## How to create your own Franz recipes:
-* [Read the documentation.](https://github.com/meetfranz/plugins)
+## References
+* [Franz Integration Documentation](https://github.com/meetfranz/plugins/tree/master/docs)
