@@ -1,6 +1,10 @@
 # Pushover for Franz
 This is a [Pushover](https://pushover.net) recipe for [Franz](https://meetfranz.com).
 
+* This recipe requires a Pushover Desktop license.
+* The "direct messages" badge is value of the "All Messages" app in Pushover.
+* The author found it useful to create a new device for Franz in Pushover.
+
 ## Installation
 
 To install a new recipe:
@@ -13,11 +17,6 @@ To install a new recipe:
 3. Reload Franz.
 4. Add a new service. Click the "Development" button under available services 
 to see the recipes added in `.../recipes/dev/`.
-
-## Notes
-* This recipe requires a Pushover Desktop license.
-* The "direct messages" badge is value of the "All Messages" app in Pushover.
-* The author found it useful to create a new device for Franz in Pushover.
 
 ## References
 * [Franz Integration Documentation](https://github.com/meetfranz/plugins/tree/master/docs)
